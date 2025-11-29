@@ -5,7 +5,7 @@ email: asainzp01@educantabria.es
 description: > # this means to ignore newlines until "baseurl:"
   Los Pokémon son criaturas de todo tipo de formas y tamaños que viven junto a los humanos.
 baseurl: "/tranquil-theme"
-url: "https://info-pokemons.netlify.app"
+url: "https://info-pokemons-iaw.netlify.app"
 aboutme: "Soy una estudiante de 2º de ASIR que está realizando una tarea escolar para el módulo IAW."
 
 # Build settings
