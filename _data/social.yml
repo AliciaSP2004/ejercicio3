@@ -1,20 +1,7 @@
-- name: facebook
-  url: http://facebook.com/#
-
-- name: linkedin
-  url: http://linkedin.com/#
-
-- name: twitter
-  url: http://twitter.com/#
 
 - name: github
-  url: http://github.com/#
-
-- name: google-plus
-  url: http://plus.google.com/#
+  url: http://github.com/AliciaSP2004#
 
 - name: instagram
-  url: http://instagram.com/#
+  url: http://instagram.com/spaliciasp#
 
-- name: youtube-play
-  url: http://youtube.com/#
