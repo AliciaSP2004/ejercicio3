@@ -6,3 +6,4 @@ gem "jekyll", "~> 4.3"
 gem "jekyll-feed"
 gem "webrick"
 
+gem "jekyll-remote-theme"

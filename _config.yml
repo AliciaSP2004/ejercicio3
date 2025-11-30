@@ -16,3 +16,6 @@ paginate_path: "/page:num/"
 
 # Comment thread setting
 disqus_forumname: tranquil-theme
+
+plugins:
+  - jekyll-remote-theme
